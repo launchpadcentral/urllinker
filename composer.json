@@ -1,5 +1,5 @@
 {
-    "name": "kwi/urllinker"
+    "name": "kwi/urllinker",
     "autoload": {
         "classmap": [ "lib/" ]
     }
