@@ -1,0 +1,2 @@
+[paths]
+default = ssh://git@bitbucket.org/kwi/urllinker

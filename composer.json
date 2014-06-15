@@ -1,3 +1,6 @@
 {
     "name": "kwi/urllinker"
+    "autoload": {
+        "classmap": [ "lib/" ]
+    }
 }
