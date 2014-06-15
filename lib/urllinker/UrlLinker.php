@@ -11,6 +11,11 @@
  */
 
 /*
+ * Globals to appease PHP >= 5.3
+ */
+global $rexUrlLinker;
+global $validTlds;
+/*
  *  Regular expression bits used by htmlEscapeAndLinkUrls() to match URLs.
  */
 $rexScheme    = 'https?://';
