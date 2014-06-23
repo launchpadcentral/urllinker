@@ -9,5 +9,5 @@ abstract class UrlLinker
     }
 };
 
-require_once __DIR__.'/UrlLinker/UrlLinker.php';
+require_once __DIR__.'/urllinker/UrlLinker.php';
 ?>
